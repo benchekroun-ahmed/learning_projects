@@ -1,6 +1,8 @@
-def fibonaci(n):
+def fibonacci(n):
     if n < 2:
         return n
     else:
-        return fibonaci(n-1) + fibonaci(n-2)
-print(fibonaci(40))
+        return fibonacci(n-1) + fibonacci(n-2)
+    
+
+print(fibonacci(40))
