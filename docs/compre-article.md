@@ -14,3 +14,4 @@ and understand the real because .
 thats represent the biginning of a new journey for me and you courageous reader !!
 
 */CHAP1 : whats code performance ?
+
